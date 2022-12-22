@@ -1,0 +1,34 @@
+#block-card{
+  margin-top: 10% ;
+}
+
+
+.block{
+  padding: 10px;
+
+}
+
+img{
+  border-radius: 5%;
+}
+
+.card-date{
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 60px;
+  font-size: 10px;
+
+}
+
+#mid{
+  position: absolute;
+  padding-right:19%;
+  margin-top: 20%;
+  font-size: 10px;
+
+}
+
+.mid2{
+  width: 80%;
+  height: 100%;
+}
